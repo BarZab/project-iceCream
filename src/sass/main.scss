@@ -1,6 +1,10 @@
 @import "utils/variables";
 @import "utils/visually-hidden";
 
+@import "base/common";
+@import "base/container";
+@import "base/section";
+
 @import "layout/hero_header";
 @import "layout/products";
 @import "layout/about";
@@ -10,4 +14,4 @@
 @import "layout/contacts";
 @import "layout/footer";
 
-@import "components/social-links.scss"
+@import "components/social-links"
