@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://BarZab.github.io/project-iceCream",
+  "homepage": "https://BarZab.github.io/project-iceCream/src/index.html",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-iceCream/"
